@@ -14,7 +14,7 @@ Tenemos 4 métodos bastante importantes que deberíamos conocer como programador
 
 ## Método Map.
 
-[![](http://img.youtube.com/vi/e78t3QjVO/0.jpg)](https://www.youtube.com/watch?v=e78t3QjVO "")
+[![](http://img.youtube.com/vi/e78t3QjVO-E/0.jpg)](https://www.youtube.com/watch?v=e78t3QjVO-E "")
 
 
 
